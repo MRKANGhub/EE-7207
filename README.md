@@ -1,2 +1,2 @@
-# ntu-last-semester
-ntu最后两门课程冲刺
+# EE7207
+对ntu EE7207课程的浅显认识
